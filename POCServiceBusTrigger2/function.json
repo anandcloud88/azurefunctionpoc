@@ -1,0 +1,11 @@
+{
+  "bindings": [
+    {
+      "name": "mySbMsg",
+      "type": "serviceBusTrigger",
+      "direction": "in",
+      "queueName": "poc-sales-data",
+      "connection": "pocsbsale_SERVICEBUS"
+    }
+  ]
+}
