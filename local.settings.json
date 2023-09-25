@@ -3,7 +3,7 @@
   "Values": {
     "WEBSITE_SLOT_NAME": "Production",
     "FUNCTIONS_EXTENSION_VERSION": "~4",
-    "ScmType": "None",
+    "ScmType": "GitHubAction",
     "AzureWebJobsSecretStorageType": "files",
     "WEBSITE_AUTH_ENABLED": "False",
     "WEBSITE_RUN_FROM_PACKAGE": "1",
